@@ -1,4 +1,4 @@
 # Data Algo
 Learning experience
 
-Insertion sort, Merge Sort, Time complexity between these to sorts
+1. Insertion sort, Merge Sort, Time complexity between these to sorts
